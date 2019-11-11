@@ -1,3 +1,3 @@
 # ProjectA
 
-feature1 - origin selection
+feature1 - origin selection optimized
